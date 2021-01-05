@@ -1,4 +1,4 @@
-# Testing (automated) using selenium
+# Automation Testing using selenium
 
 This script contains the tests for website: https://www.thesparksfoundationsingapore.org/
 
