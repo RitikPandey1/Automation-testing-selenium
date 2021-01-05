@@ -8,6 +8,6 @@ This script contains the tests for website: https://www.thesparksfoundationsinga
 _test/main_test.js_ file contain all the tests.
 
 ### Steps to run the script locally
-1. Clone this repository.
+1. clone this repository.
 2. run `yarn init`  in root folder of this repository.
 3. then, run `yarn test` 
