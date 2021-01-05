@@ -1,0 +1,15 @@
+{
+	"name": "web-automation-testing",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"test": "mocha  -s='4500'"
+	},
+	"dependencies": {
+		"axios": "^0.21.1",
+		"geckodriver": "^1.21.1",
+		"mocha": "^8.2.1",
+		"selenium-webdriver": "^4.0.0-alpha.8"
+	}
+}
